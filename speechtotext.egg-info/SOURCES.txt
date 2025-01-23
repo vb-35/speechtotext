@@ -1,0 +1,10 @@
+setup.py
+speechtotext.egg-info/PKG-INFO
+speechtotext.egg-info/SOURCES.txt
+speechtotext.egg-info/dependency_links.txt
+speechtotext.egg-info/requires.txt
+speechtotext.egg-info/top_level.txt
+src/__init__.py
+src/audio/__init__.py
+src/audio/loader.py
+tests/test_audio_loader.py

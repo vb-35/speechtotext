@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: speechtotext
+Version: 0.1
+Requires-Dist: torch
+Requires-Dist: torchaudio
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pyyaml
